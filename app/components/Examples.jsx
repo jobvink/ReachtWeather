@@ -10,7 +10,10 @@ var React = require('react');
 
 var Examples = (props) => {
 	return (
-		<h3>Examples component!</h3>
+		<div>
+			<h3>Examples component!</h3>
+			<p>Welkom op de Examples pagina</p>
+		</div>
 	);
 };
 
